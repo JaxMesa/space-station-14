@@ -1,73 +1,73 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "PixelTK leaves his mark on upstream",
+  "copyright": "This pixels made by @no_mad#0260",
   "size": {
     "x": 32,
     "y": 32
   },
   "states": [
     {
-      "name": "aro"
+      "name": "comm"
     },
     {
-      "name": "aro-equipped",
+      "name": "comm-equipped",
       "directions": 4
     },
 	{
-      "name": "asex"
+      "name": "donk"
     },
     {
-      "name": "asex-equipped",
+      "name": "donk-equipped",
       "directions": 4
     },
 	{
-      "name": "bi"
+      "name": "earth"
     },
     {
-      "name": "bi-equipped",
+      "name": "earth-equipped",
       "directions": 4
     },
 	{
-      "name": "inter"
+      "name": "logistika"
     },
     {
-      "name": "inter-equipped",
+      "name": "logistika-equipped",
       "directions": 4
     },
 	{
-      "name": "les"
+      "name": "med"
     },
     {
-      "name": "les-equipped",
+      "name": "med-equipped",
       "directions": 4
     },
 	{
-      "name": "lgbt"
+      "name": "nakamura"
     },
     {
-      "name": "lgbt-equipped",
+      "name": "nakamura-equipped",
       "directions": 4
     },
 	{
-      "name": "non"
+      "name": "nano"
     },
     {
-      "name": "non-equipped",
+      "name": "nano-equipped",
       "directions": 4
     },
 	{
-      "name": "pan"
+      "name": "sind"
     },
     {
-      "name": "pan-equipped",
+      "name": "sind-equipped",
       "directions": 4
     },
 	{
-      "name": "trans"
+      "name": "vit"
     },
     {
-      "name": "trans-equipped",
+      "name": "vit-equipped",
       "directions": 4
     }
   ]

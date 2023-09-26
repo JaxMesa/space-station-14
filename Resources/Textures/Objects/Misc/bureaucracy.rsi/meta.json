@@ -124,6 +124,9 @@
       "name": "paper_stamp-deny"
     },
     {
+      "name": "paper_stamp-approve"
+    },
+    {
       "name": "paper_stamp-hop"
     },
     {
@@ -152,6 +155,9 @@
     },
     {
       "name": "paper_stamp-generic"
+    },
+	{
+      "name": "paper_stamp-psychologist"
     },
     {
       "name": "paper_talisman"
@@ -273,10 +279,16 @@
       "name": "stamp-deny"
     },
     {
+      "name": "stamp-approve"
+    },
+    {
       "name": "stamp-hop"
     },
     {
       "name": "stamp-hos"
+    },
+    {
+      "name": "stamp-iaa"
     },
     {
       "name": "stamp-ok"
@@ -298,6 +310,9 @@
     },
     {
       "name": "stamp-warden"
+    },
+	{
+      "name": "stamp-psychologist"
     },
     {
       "name": "clipboard-equipped-BELT",
