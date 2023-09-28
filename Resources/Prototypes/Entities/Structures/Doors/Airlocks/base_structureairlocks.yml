@@ -64,7 +64,6 @@
   - type: Weldable
     time: 3
   - type: Airlock
-    openUnlitVisible: true # SpaceBorn-Resprite-Airlocks
   - type: DoorBolt
   - type: Appearance
   - type: WiresVisuals

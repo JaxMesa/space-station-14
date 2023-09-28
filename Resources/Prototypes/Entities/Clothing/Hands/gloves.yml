@@ -222,6 +222,10 @@
   name: combat gloves
   description: These tactical gloves are fireproof and shock resistant.
   components:
+  - type: Sprite # SpaceBorn-Resprite
+    sprite: Clothing/Hands/Gloves/combat.rsi
+  - type: Clothing # SpaceBorn-Resprite
+    sprite: Clothing/Hands/Gloves/combat.rsi
   - type: Insulated
   - type: Fiber
     fiberMaterial: fibers-insulative
